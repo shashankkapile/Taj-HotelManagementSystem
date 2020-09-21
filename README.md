@@ -41,6 +41,37 @@ We have used open source tech/tools to work properly:
 And of course Taj-HotelManagementSystem itself is open source with a public repository
 on GitHub.
 
+### Diagrams & Screenshots
+Screenshots:
+
+<img src="https://github.com/shashankkapile/Taj-HotelManagementSystem/blob/master/Images/Screenshots/1.PNG"  height="400">
+<img src="https://github.com/shashankkapile/Taj-HotelManagementSystem/blob/master/Images/Screenshots/admin%20panel.PNG"  height="400">
+<img src="https://github.com/shashankkapile/Taj-HotelManagementSystem/blob/master/Images/Screenshots/checkIn.PNG"  height="400">
+<img src="https://github.com/shashankkapile/Taj-HotelManagementSystem/blob/master/Images/Screenshots/checkOut.PNG"  height="400">
+<img src="https://github.com/shashankkapile/Taj-HotelManagementSystem/blob/master/Images/Screenshots/recordsCurrent.PNG"  height="400">
+<img src="https://github.com/shashankkapile/Taj-HotelManagementSystem/blob/master/Images/Screenshots/recordsOld.PNG"  height="400">
+<img src="https://github.com/shashankkapile/Taj-HotelManagementSystem/blob/master/Images/Screenshots/room availablitu.PNG"  height="400">
+
+
+Diagrams:
+
+Use Case Diagram
+<img src="https://github.com/shashankkapile/Taj-HotelManagementSystem/blob/master/Images/UML%20Diagrams/use%20case.png"  height="400">
+
+Activity Diagram
+<img src="https://github.com/shashankkapile/Taj-HotelManagementSystem/blob/master/Images/UML%20Diagrams/activity.PNG"  height="700">
+
+Sequence Diagram
+<img src="https://github.com/shashankkapile/Taj-HotelManagementSystem/blob/master/Images/UML%20Diagrams/sequence.PNG"  height="700">
+
+
+Class Diagram
+<img src="https://github.com/shashankkapile/Taj-HotelManagementSystem/blob/master/Images/UML%20Diagrams/class.PNG"  height="700">
+
+
+ER Diagram
+<img src="https://github.com/shashankkapile/Taj-HotelManagementSystem/blob/master/Images/UML%20Diagrams/ER.PNG"  height="700">
+
 ### Development
 Current status for development is stopped.
 Want to contribute? Great!
