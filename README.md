@@ -1,7 +1,7 @@
 # Taj-Hotel Management System
 
 A one stop desktop based management system that effectively automates hotel's major front office operations.
-# Disclaimer:*
+# Disclaimer:
 We do not own the brand 'Taj', the project is only for study purpose and not being used anywhere for commericial purpose.
 Sources for Taj images are from internet.
 # Features!
